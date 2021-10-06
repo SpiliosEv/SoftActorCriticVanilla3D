@@ -1,4 +1,4 @@
-### **Soft Actor Critic for 3D Continuous Motion Control with Sinusoidal Representation Networks for Value function approximation in Wireless Autonomous Networks**
+### **Soft Actor Critic for 3D Continuous Motion Control in Wireless Autonomous Networks**
 
 
 This is the implementation for Continuous 3D Motion Control in Mobile Beamforming Wireless Autonomous Networks in PyTorch.
